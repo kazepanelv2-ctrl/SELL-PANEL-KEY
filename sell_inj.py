@@ -11,7 +11,7 @@ from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, Callback
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN")
 OWNER_ID = int(os.environ.get("OWNER_ID"))
-PANEL_URL = "https://codm-injector-panel-pnij.onrender.com"
+PANEL_URL = "https://codm-injector-panel-zouv.onrender.com"
 
 # ======================
 # KEEP ALIVE SERVER
